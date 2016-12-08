@@ -2,6 +2,7 @@
 ## 淘宝宝贝网址缩减
  
 Ctrl+v 粘贴入网址后，点下面两项，就自动复制到了剪切板，在其他地方按 Ctrl+v 就可以了。
+![](https://github.com/pealpool/ShortURL-3.0/blob/master/snipaste20161208_155600.png)
 
 ***
 ### 下载：
